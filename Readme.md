@@ -8,4 +8,4 @@ Este es un proyecto simple que hice como parte de mi aprendizaje en desarrollo d
 - Tiene un botón que lanza un saludo en pantalla
 
 ## Autor
-Carlos López – Estudiante de Tecnología en Desarrollo de Software
+Carlos López – Estudiante de Desarrollo de Software
